@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Konu03Operatorler": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KasimCSharpEgitimi": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

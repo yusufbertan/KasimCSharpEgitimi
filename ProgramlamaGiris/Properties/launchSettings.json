@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ProgramlamaGiris": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

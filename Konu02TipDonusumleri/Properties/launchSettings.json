@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Konu02TipDonusumleri": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
